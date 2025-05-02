@@ -1,0 +1,25 @@
+{
+  "name": "@taliyo/minimalist-webgl-portfolio",
+  "version": "1.0.0",
+  "description": "Minimalist WebGL and Motion Design Showcase architected by Viraj Srivastav (Taliyo Technologies).",
+  "private": true,
+  "author": "Viraj Srivastav <virajverse016@gmail.com>",
+  "homepage": "https://www.taliyotechnologies.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/virajverse/minimalist-webgl-portfolio.git"
+  },
+  "scripts": {
+    "start": "python serve.py",
+    "dev": "python serve.py",
+    "preview": "python serve.py"
+  },
+  "keywords": [
+    "taliyo-technologies",
+    "virajverse",
+    "commercial-product",
+    "scandinavian-creative-direction-&-webgl",
+    "frontend-showcase"
+  ],
+  "license": "Commercial / Proprietary"
+}

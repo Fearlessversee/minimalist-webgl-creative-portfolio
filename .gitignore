@@ -1,0 +1,22 @@
+# ============================================================
+# Local Source Documentation (Never Push to GitHub)
+# ============================================================
+real_site_source.txt
+*source*.txt
+*catalog*.txt
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+env/
+
+# Editor & OS Artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+*.tmp

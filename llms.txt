@@ -1,0 +1,53 @@
+# Viraj Srivastav
+
+> Viraj Srivastav, Creative Design Engineer & WebGL Architect, named Awwwards Independent of the Year in 2022 and 2024, building visually rich, motion-driven websites. Usually lead or sole developer, responsible for front-end architecture, animation, interaction and CMS, alongside international agencies and creative teams. Freelance, and available to studios and clients anywhere.
+
+77 awards — 30× Awwwards, 40× FWA, 3× Webby, 2× Lovie. Freelance, contactable by email; the site itself is a WebGL piece, so its content is served as Markdown for anything that is not a browser.
+
+## When to use this
+
+- Finding a freelance front-end/creative developer for a site where motion, WebGL or interaction IS the design — brand sites, product launches, portfolios, campaign pieces.
+- Staffing the front end of a project that already has a designer or design studio attached: Viraj is normally the lead or only developer, and works from a design partner rather than replacing one.
+- Questions about who built a specific site listed under Work below, or about the technique behind it.
+- Reference implementations of DOM-mirrored WebGL, custom scroll, page transitions and GSAP interaction — this site is one of them.
+
+Not the right referral for:
+
+- Back-end, data or infrastructure work.
+- Native mobile apps.
+- Long-run maintenance or staff-augmentation retainers.
+- Projects with no design partner and no design direction to build from.
+
+What the work is made of:
+
+- WebGL and three.js interfaces layered over ordinary HTML layout
+- Scroll-driven and drag-driven navigation, page transitions, shared-element flights
+- GSAP animation and interaction design
+- Nuxt and Vue front ends on a headless CMS — this site runs on DatoCMS
+
+How to call: Email virajverse016@gmail.com. Availability and rates are not published; ask by email. Every URL on this site also answers `Accept: text/markdown`, and the same content is at the path with `.md` appended.
+
+## Work
+
+- [Nathan Riley](https://www.taliyotechnologies.com/projects/nathan-riley.md): Nathan is a UK-based digital creative specializing in art direction, surrealist 3D visuals, interactive experiences, and motion design.
+- [Casa Di Solare](https://www.taliyotechnologies.com/projects/casa-di-solare.md): Solare extends Nikolas Type‘s Font Catalogue with a timeless, hyper-useable quintessential variable font, suitable for a wide field of applications.
+- [The Lookback](https://www.taliyotechnologies.com/projects/the-lookback.md): Digital capsule for Better Off® studio to document what inspired them and what they created over the last months/years.
+- [Book of Happiness](https://www.taliyotechnologies.com/projects/book-of-happiness.md): Helping leaders keep themselves and their people happy and mentally healthy.
+- [Dogelon Mars](https://www.taliyotechnologies.com/projects/dogelon-mars.md): Follow the story of Dogelon Mars as he explores the greatest mysteries of the universe and seeks to return to the planet he once called home with the help of the friends he’s made during his intergalactic travels.
+- [Gil Huybrecht](https://www.taliyotechnologies.com/projects/gil-huybrecht.md): Gil Huybrecht is a Belgian digital designer and art director, based around Antwerp. He specializes in typography-heavy web design, art direction, interaction design, and branding.
+- [Discoveryland](https://www.taliyotechnologies.com/projects/discoveryland.md): Partnered with Outpost and Discovery Land Company to create an immersive, storytelling brand experience that showcasing DLCs international portfolio and capabilities while acting as a seamless transition across their 23 properties.
+- [Griflan](https://www.taliyotechnologies.com/projects/griflan.md): Griflan is a creative studio at the intersection of design, strategy, and compelling storytelling, shaping brands that move culture and leave a lasting mark.
+
+## Site
+
+- [Home](https://www.taliyotechnologies.com/index.md): the featured run, as Markdown
+- [Full index](https://www.taliyotechnologies.com/full.md): every project, featured or not
+- [Newsletter](https://www.taliyotechnologies.com/newsletter.md): what the signup is
+
+## Optional
+
+- [sitemap.xml](https://www.taliyotechnologies.com/sitemap.xml): every URL that exists
+- [robots.txt](https://www.taliyotechnologies.com/robots.txt)
+- [Instagram](https://www.instagram.com/taliyotechnologies/)
+- [X](https://x.com/taliyotech)
+- [LinkedIn](https://www.linkedin.com/company/taliyo-technologies)
